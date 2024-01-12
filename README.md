@@ -22,7 +22,7 @@ The tasks outlined in the deliverables pertain to a project that involves the ap
 
 Overall, the tasks guide a team through the process of understanding user needs, defining the problem, generating creative solutions, and finally, creating and testing prototypes for a digital solution.
 
---
+---
 
 
 Here is a detailed explanation:
